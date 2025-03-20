@@ -34,26 +34,23 @@ This project analyzes the relationship between social media aggressiveness, sent
 
 The analysis produces several key visualizations that illustrate the relationship between social media discourse and legislative activity:
 
+### Trends of Tweet volume and Legislative activity
+
+(./img/trend.png)
+
 ### Time Lag Analysis Visualizations
 
 ![Aggressiveness vs Next Day Legislative Activity](./img/aggressiveness_next_day_bills.png)
 
 ![Sentiment vs Next Day Legislative Activity](./img/sentiment_next_day_bills.png)
 
-![Aggressiveness vs Next Week Legislative Activity](./img/aggressiveness_next_week_bills.png)
-
-![Sentiment vs Next Week Legislative Activity](./img/sentiment_next_week_bills.png)
-
 
 ### Topic-Specific Analysis
 
-![Legislative Impact - Seriousness of Gas Emissions](./img/legislative_impact_seriousness_of_gas_emissions.png)
+![Tweet Volume Comparision - Gas Emissions vs Global Warming](./img/volume.png)
 
-![Legislative Impact - Ideological Positions on Global Warming](./img/legislative_impact_ideological_positions_on_global_warming.png)
 
 ### Comparative Analysis
-
-![Coefficient Evolution Over Time](./img/coefficient_evolution_over_time.png)
 
 ![Coefficient Comparison Across Time Lags](./img/coefficient_comparison_across_time_lags.png)
 
