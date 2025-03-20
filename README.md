@@ -52,7 +52,7 @@ The analysis produces several key visualizations that illustrate the relationshi
 
 ### Comparative Analysis
 
-![Coefficient Comparison Across Time Lags](./img/coefficient_comparison_across_time_lags.png)
+![Coefficient Comparison Across Time Lags](./img/coefficient_evolution_over_time.png)
 
 ## Dependencies
 - `pandas`
