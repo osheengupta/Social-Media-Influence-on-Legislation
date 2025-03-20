@@ -36,7 +36,7 @@ The analysis produces several key visualizations that illustrate the relationshi
 
 ### Trends of Tweet volume and Legislative activity
 
-(./img/trend.png)
+![Trend](./img/trend.png)
 
 ### Time Lag Analysis Visualizations
 
