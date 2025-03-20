@@ -30,6 +30,33 @@ This project analyzes the relationship between social media aggressiveness, sent
 - Time-lagged correlations revealing how sustained social media discourse influences policy decisions
 - Comparative analysis of different climate change topics and their relative impact on legislation
 
+## Visualization Gallery
+
+The analysis produces several key visualizations that illustrate the relationship between social media discourse and legislative activity:
+
+### Time Lag Analysis Visualizations
+
+![Aggressiveness vs Next Day Legislative Activity](./img/aggressiveness_next_day_bills.png)
+
+![Sentiment vs Next Day Legislative Activity](./img/sentiment_next_day_bills.png)
+
+![Aggressiveness vs Next Week Legislative Activity](./img/aggressiveness_next_week_bills.png)
+
+![Sentiment vs Next Week Legislative Activity](./img/sentiment_next_week_bills.png)
+
+
+### Topic-Specific Analysis
+
+![Legislative Impact - Seriousness of Gas Emissions](./img/legislative_impact_seriousness_of_gas_emissions.png)
+
+![Legislative Impact - Ideological Positions on Global Warming](./img/legislative_impact_ideological_positions_on_global_warming.png)
+
+### Comparative Analysis
+
+![Coefficient Evolution Over Time](./img/coefficient_evolution_over_time.png)
+
+![Coefficient Comparison Across Time Lags](./img/coefficient_comparison_across_time_lags.png)
+
 ## Dependencies
 - `pandas`
 - `numpy`
