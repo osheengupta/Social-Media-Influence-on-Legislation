@@ -54,6 +54,11 @@ The analysis produces several key visualizations that illustrate the relationshi
 
 ![Coefficient Comparison Across Time Lags](./img/coefficient_evolution_over_time.png)
 
+## Key Findings:
+- **Public Anger Spurs Action:** Higher tweet aggressiveness correlates with increased legislative activity (~2.15 more actions per 0.1 increase in aggressiveness), showing lawmakers may react to public intensity.
+- **The Power of Negative Sentiment:** More negative tweets strongly correlate with legislative surges (8–10 bills), suggesting emotionally charged discourse can drive immediate policy attention.
+- **Short-Term vs. Long-Term Dynamics:** While aggressive tweets drive rapid legislative responses, the effect fades or even reverses over longer periods, hinting at complex feedback loops between public discourse and policymaking.
+
 ## Dependencies
 - `pandas`
 - `numpy`
